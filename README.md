@@ -1,4 +1,4 @@
-# Finalce-and-Sales-Analysis-Using-Excel
+# Finance-and-Sales-Analysis-Using-Excel
 ## Project Overview
 
 This project focuses on the Sales and Finance Analysis for AtiQ Hardware using Excel. The analysis aims to provide actionable insights for business decision-making and to improve overall performance.
